@@ -23,7 +23,7 @@ To recognize your app in TheButterflySDK servers you'll need an application key.
 ## Example
 
 ### Demo in our website
-[Our website]([url](https://butterfly-button.web.app/)) already operate with our button, simply click our logo.
+[Our simple website (pure HTML with JS)](https://butterfly-button.web.app/) already operate with our button, simply click our logo.
 
 
 ### Code usage in JavaScript
