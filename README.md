@@ -16,6 +16,16 @@
 <img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key');" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px" alt="The Butterfly Button" />
 ```
 
+#### Using WordPress?
+
+![image](https://user-images.githubusercontent.com/100164625/205072953-f883a1e4-83f4-49ef-801a-892dc6113787.png)
+
+Simply put this in the HTML code inside WordPress:
+```javascript
+<script src="https://butterfly-button.web.app/cdn/butterfly-plugin.js"></script>
+<img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key');" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px" alt="The Butterfly Button" />
+```
+
 #### Using the same country / language in your website?
 
 Use `[override country code]` / `[override language]` in order to override our automatic detection of language and country.
