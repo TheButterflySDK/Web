@@ -13,7 +13,7 @@
 
 ```javascript
 <script src="https://butterfly-button.web.app/cdn/butterfly-plugin.js"></script>
-<img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key');" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px" alt="The Butterfly Button" />
+<img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key');" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px; cursor: pointer;" alt="The Butterfly Button" />
 ```
 
 #### Using WordPress?
@@ -23,7 +23,7 @@
 Simply put this in the HTML code inside WordPress:
 ```javascript
 <script src="https://butterfly-button.web.app/cdn/butterfly-plugin.js"></script>
-<img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key');" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px" alt="The Butterfly Button" />
+<img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key');" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px; cursor: pointer;" alt="The Butterfly Button" />
 ```
 
 #### Using the same country / language in your website?
@@ -32,7 +32,7 @@ Use `[override country code]` / `[override language]` in order to override our a
 
 ```javascript
 <script src="https://butterfly-button.web.app/cdn/butterfly-plugin.js"></script>
-<img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key', [override country code], [override language]);" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px" alt="The Butterfly Button" />
+<img onclick="bf_ReporterPlugin.toggleButterflyReporter('your API key', [override country code], [override language]);" src="https://butterfly-button.web.app/img/butterfly-logo-200.png" style="width: 50px; cursor: pointer;" alt="The Butterfly Button" />
 ```
 
 #### Manual usage in JavaScript
