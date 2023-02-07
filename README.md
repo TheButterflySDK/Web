@@ -9,6 +9,12 @@
 
 ### 🔌 & ▶️
 
+
+[![image](https://user-images.githubusercontent.com/100164625/217179086-03d4cf3c-d0d1-4403-9943-cf88816ff525.png)](https://www.wix.com/app-market/the-butterfly-button)
+
+### WiX websites?
+Go To: https://www.wix.com/app-market/the-butterfly-button
+
 #### Embed tags in your HTML code
 
 ```javascript
@@ -54,7 +60,7 @@ Use `[override country code]` / `[override language]` in order to override our a
 To recognize your app in our servers you'll need an application key. You can set it via code, as demonstrated above.
 
 ## Demo in our website
-[Our simple website (pure HTML with JS)](https://butterfly-button.web.app/) already operate with our button, simply click our logo.
+[ynet.co.il](https://www.ynet.co.il/) already operate with our button, simply click our logo.
 
 
 ### Enjoy and good luck ❤️
