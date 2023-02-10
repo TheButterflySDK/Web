@@ -9,11 +9,14 @@
 
 ### 🔌 & ▶️
 
+### WiX websites?
+
+Go To: https://www.wix.com/app-market/the-butterfly-button
 
 [![image](https://user-images.githubusercontent.com/100164625/217179086-03d4cf3c-d0d1-4403-9943-cf88816ff525.png)](https://www.wix.com/app-market/the-butterfly-button)
 
-### WiX websites?
-Go To: https://www.wix.com/app-market/the-butterfly-button
+
+### Other websites?
 
 #### Embed tags in your HTML code
 
@@ -56,6 +59,8 @@ Use `[override country code]` / `[override language]` in order to override our a
 ```
 
 ## Use an API key 🔑
+
+To join us, visit [our website](https://butterfly-button.web.app).
 
 To recognize your app in our servers you'll need an application key. You can set it via code, as demonstrated above.
 
