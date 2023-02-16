@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-Apache-yellow.svg)](https://github.com/TheButterflySDK/Web/blob/main/LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Web-white.svg)](https://github.com/TheButterflySDK/Web)
 
-[The Butterfly SDK](https://github.com/TheButterflySDK/About/blob/main/README.md) helps your website to take an active part in the fight against domestic violence.
+[The Butterfly SDK](https://github.com/TheButterflyButton/About/blob/main/README.md) helps your website to take an active part in the fight against domestic violence.
 
 ## Installation
 
