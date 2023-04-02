@@ -60,7 +60,7 @@ Use `[override country code]` / `[override language]` in order to override our a
 
 ## Use an API key 🔑
 
-To join us, visit [our website](https://butterfly-button.web.app).
+To join us, visit [our website](https://butterfly-button.com).
 
 To recognize your app in our servers you'll need an application key. You can set it via code, as demonstrated above.
 
